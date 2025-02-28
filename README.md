@@ -15,7 +15,7 @@ QuickTask is a simple and intuitive to-do list application built with React. It 
 To run the app locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/quicktask.git
+   git clone https://github.com/Harish-918/QuickTask
 
 2. Navigate into the project folder:
    cd quicktask
